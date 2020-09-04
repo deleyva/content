@@ -1,24 +1,23 @@
 ---
-title: A post with a cover image
+title: Curso online Flipped Classroom 30 horas
 date: 2019-01-07T00:00:00.000Z
 published: true
 tags:
-  - Markdown
-  - Cover Image
-cover_image: ../../static/images/uploads/alexandr-podvalny-220262-unsplash.jpg
+  - Curso
+  - Metodologías
+cover_image: ../../static/images/uploads/captura-de-pantalla-2020-09-04-a-las-11.36.15.png
 description: >-
-  Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
-  Readability, however, is emphasized above all else. A Markdown-formatted
-  document should be publishable as-is, as plain text, without looking like it's
-  been marked up with tags or formatting instructions.
+  ### Calendario
+
+
+  * **Inscripción** del 31 de agosto al 13 de septiembre de 2020.
+
+  * **Lista de admisión** 14 de septiembre en [catedu.es](https://web.catedu.es/).
+
+  * **Comienzo de curso** 14 de septiembre de 2020.
+
+  * **Final de curso** 14 de noviembre de 2020.
 ---
-
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions. 
-
-While Markdown's syntax has been influenced by several existing text-to-HTML filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
-
-
+* HORAS: 30
+* PLAZAS : 400
+* Inscripción en [https://doceo.catedu.es/](https://doceo.catedu.es/)
