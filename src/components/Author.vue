@@ -6,11 +6,11 @@
 		</h1>
 
 		<p class="author__intro">
-			Aquí iría la intro del autor.
+			El Centro Aragonés de Tecnologías para la Educación (CATEDU) depende del Departamento de Educación, Cultura y Deporte del Gobierno de Aragón: Es Centro de Profesorado específico de formación a distancia del profesorado y ofrece servicios destinados a incentivar y facilitar el uso de las TIC en la educación.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
+			<a href="//twitter.com/catedu_es">Follow on Twitter</a>
 			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
 		</p>
 
